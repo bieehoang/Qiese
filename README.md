@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Qiese
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in IoT
+- 🌱 I’m currently learning about dev programs.
+- Just a dude, not what else
+<scripts>
+ </>
 
 <!---
 Qiese/Qiese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
