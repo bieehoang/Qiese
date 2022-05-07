@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Qiese
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning about dev programs.
-- Just a dude, not what else
+PRACTICE && PRACTICE && CODE && CODE && CODE
 <scripts>
  </>
 
