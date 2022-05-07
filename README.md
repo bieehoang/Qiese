@@ -1,5 +1,4 @@
 PRACTICE && PRACTICE && CODE && CODE && CODE
-<scripts>
  </>
 
 <!---
