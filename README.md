@@ -10,7 +10,6 @@
 <a href="https://dev.to/bieehoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bieehoang" height="30" width="40" /></a>
 <a href="https://twitter.com/bieehoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bieehoang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bieehoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bieehoang" height="30" width="40" /></a>
-<a href="https://instagram.com/bieehoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bieehoang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
