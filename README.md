@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bieehoang&label=Profile%20views&color=0e75b6&style=flat" alt="bieehoang" /> </p>
 <div align="center">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Qiese&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiese&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Qiese&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiese&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dracula" />
 </br>
 </br>
 </div>
