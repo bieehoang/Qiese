@@ -2,7 +2,6 @@
 
 > Make awesome things that matter.
 <h1 align="center">I'm bieehoang</h1>
-<h3 align="center">A man</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bieehoang&label=Profile%20views&color=0e75b6&style=flat" alt="bieehoang" /> </p>
 <div align="center">
